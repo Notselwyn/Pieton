@@ -40,7 +40,7 @@ definieer huidig(x):
 
     probeer:
         meld ConnectieFout
-    except Uitzondering is e:
+    behalve Uitzondering is e:
         schrijf('Een uitzondering heeft plaats gevonden')
     
     schrijf(1/0)
