@@ -95,7 +95,10 @@ pieton_woordenboek = {
     'kaart': 'map',
     'uitgang': 'exit',
     'globalen': 'globals',
-    'executeer': 'exec'
+    'executeer': 'exec',
+
+    # misc
+    'is': 'as',
 }
 
 fout_woordenboek = {
@@ -112,6 +115,9 @@ fout_woordenboek = {
     'string': 'snaar',
     'globals': 'globalen',
     'exec': 'executeer',
+    'division': 'delen',
+    'by': 'door',
+    'zero': 'nul',
 }
 
 pieton_woordenboek.update(error_woordenboek)
