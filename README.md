@@ -1,5 +1,6 @@
 # Pieton
-Dé op-de-vlucht Python vertaler. Wereldwijd gebruikt door meer dan 1.000+ succesvolle bedrijven!
+On the run Python translator (EN -> NL). Used by more than 1.000+ Dutch successful businesses.
+We believe that programming should be possible for anyone, regardless the human-language.
 
 ## Installatie
 De programmeer taal Python is vereist om Pieton te gebruiken.
