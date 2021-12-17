@@ -1,5 +1,5 @@
 # Pieton
-Dé op-de-vlucht Pieton vertaler. Wereldwijd gebruikt door meer dan 1.000+ succesvolle bedrijven!
+Dé op-de-vlucht Python vertaler. Wereldwijd gebruikt door meer dan 1.000+ succesvolle bedrijven!
 
 ## Installatie
 De programmeer taal Python is vereist om Pieton te gebruiken.
