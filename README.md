@@ -1,9 +1,8 @@
 # Pieton
-On the run Python translator (EN -> NL). Used by more than 1.000+ Dutch successful businesses.
-We believe that programming should be possible for anyone, regardless the human-language.
+Have you altijd wanted to use Python with Dutch sleutelwoorden to make efficient broncode? Have you always wanted to schrijf the snaren using the beste language in the world? This can be gedaan on the Python translator (EN -> NL). Used by more than 1.000+ Dutch successful bedrijven. We believe that programmeren should be gedaan by anyone, regardless the human-language.
 
 ## Installatie
-De programmeer taal Python is vereist om Pieton te gebruiken.
+The programming language Python is required.
 
 ## Gebruik
 ```code
