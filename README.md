@@ -1,5 +1,5 @@
 # Pieton
-Have you altijd wanted to use Python with Dutch sleutelwoorden to make efficient broncode? Have you always wanted to schrijf the snaren using the beste language in the world? This can be gedaan on the Python translator (EN -> NL). Used by more than 1.000+ Dutch successful bedrijven. We believe that programmeren should be gedaan by anyone, regardless the human-language.
+Have you altijd wanted to use Python with Dutch sleutelwoorden to make efficient broncode? Have you always wanted to schrijf the snaren using the beste language in the world? This can be gedaan on the Python translator (EN -> NL) used by more than 1.000+ Dutch successful bedrijven. We believe that programmeren should be gedaan by anyone, regardless the human-language.
 
 ## Installatie
 The programming language Python is required.
